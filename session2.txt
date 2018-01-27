@@ -1,0 +1,6 @@
+arthematic programmes
+addition,substraction,multipication,division,modules
+printing your name
+if condition else
+if else 
+snake and ladders 
